@@ -1,0 +1,27 @@
+#!/bin/sh
+# /etc/init.d/myenv
+
+### BEGIN INIT INFO
+# Provides:		myenv
+# Required-Start:	$local_fs $remote_fs
+# Required-Stop:	$local_fs $remote_fs
+# Default-Start:	2 3 4 5
+# Default-Stop:		0 1 6
+# Short-Description: Set environment variables,
+### END INIT INFO
+
+case "$1" in
+    start)
+       	logger "Setting environment variables..."
+       	sleep 10 &
+       	. /usr/bin/myenv.sh
+	;;
+    stop)
+        ;;
+    *)
+        echo "Usage: /etc/init.d/myenv {start|stop}"
+        exit 1
+        ;;
+esac
+
+exit 0
