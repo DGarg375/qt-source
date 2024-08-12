@@ -1,7 +1,6 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 
-
 int main(int argc, char *argv[])
 {
     qputenv("QT_IVI_SURFACE_ID", "2222");

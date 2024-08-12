@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appbrightness_FILE /home/kzs5qm/workshop/brightness/build/Desktop_Qt_6_7_2-Debug/appbrightness)
+set(__QT_DEPLOY_TARGET_appbrightness_TYPE EXECUTABLE)

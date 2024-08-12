@@ -45,11 +45,11 @@ WaylandCompositor {
                 width: parent.width
                 height: parent.height
                 anchors.left: parent.left
-                opacity:0.9
+                opacity:0.3
             }
         }
     }
-    
+    /*
     WaylandOutput {
         id:display2
         sizeFollowsWindow: true
@@ -82,7 +82,7 @@ WaylandCompositor {
                 }
             }
         }
-    }
+    }*/
     //! [wayland output]
     Component {
         id: chromeComponent

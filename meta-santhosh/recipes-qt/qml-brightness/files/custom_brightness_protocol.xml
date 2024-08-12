@@ -1,0 +1,7 @@
+<protocol name="custom_brightness_protocol">
+  <interface name="custom_brightness" version="1">
+    <request name="set_brightness">
+      <arg name="value" type="fixed" summary="Brightness value between 0.0 and 1.0"/>
+    </request>
+  </interface>
+</protocol>

@@ -1,0 +1,14 @@
+-rootPath
+/home/kzs5qm/yocto/sources/meta-santhosh/recipes-qt/qml-demo3/files
+-cmake-output
+-output-file
+/home/kzs5qm/yocto/sources/meta-santhosh/recipes-qt/qml-demo3/files/build/Desktop_Qt_6_7_2-Debug/.qt/qml_imports/appQtDigitalSpeedo_conf.cmake
+-importPath
+/home/kzs5qm/yocto/sources/meta-santhosh/recipes-qt/qml-demo3/files/build/Desktop_Qt_6_7_2-Debug/QtDigitalSpeedo
+-importPath
+/home/kzs5qm/yocto/sources/meta-santhosh/recipes-qt/qml-demo3/files/build/Desktop_Qt_6_7_2-Debug
+-importPath
+/home/kzs5qm/Qt/6.7.2/gcc_64/./qml
+-qrcFiles
+/home/kzs5qm/yocto/sources/meta-santhosh/recipes-qt/qml-demo3/files/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/qmake_QtDigitalSpeedo.qrc
+/home/kzs5qm/yocto/sources/meta-santhosh/recipes-qt/qml-demo3/files/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/appQtDigitalSpeedo_raw_qml_0.qrc

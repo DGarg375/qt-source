@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-eb05378bc29ecc022e0b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "brightness",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-37ee4177d8428677ee04.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-b4f6e8703b7bb95dd7e2.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-95e22c7f8fa7501314c2.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-a27b9e13ae207619a585.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbrightness::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbrightness-Debug-63bb16305293d695e83c.json",
+					"name" : "appbrightness",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbrightness_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbrightness_autogen-Debug-975bb2a8d64e3cb11175.json",
+					"name" : "appbrightness_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbrightness_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbrightness_autogen_timestamp_deps-Debug-cef5f27933d300640167.json",
+					"name" : "appbrightness_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbrightness_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbrightness_qmlimportscan-Debug-4b77db138375134782c3.json",
+					"name" : "appbrightness_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbrightness_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbrightness_qmllint-Debug-2f3d9a2520f893d0e8ef.json",
+					"name" : "appbrightness_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbrightness_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbrightness_qmllint_json-Debug-1c18fdc472709da68ac0.json",
+					"name" : "appbrightness_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbrightness_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbrightness_qmllint_module-Debug-5afbd844c5aa3c62cd76.json",
+					"name" : "appbrightness_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbrightness_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbrightness_qmltyperegistration-Debug-12b694ab66f4f3f873fd.json",
+					"name" : "appbrightness_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbrightness_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbrightness_tooling-Debug-e6097da1a054e348d13f.json",
+					"name" : "appbrightness_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kzs5qm/workshop/brightness/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/kzs5qm/workshop/brightness"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

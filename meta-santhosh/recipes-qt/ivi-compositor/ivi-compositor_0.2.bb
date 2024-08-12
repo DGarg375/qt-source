@@ -1,6 +1,6 @@
 SUMMARY = "QT IVI Compositor"
 LICENSE = "CLOSED"
-PR = "QtCompositor"
+PR = "Compositor1"
 
 # SRCREV="${AUTOREV}"
 

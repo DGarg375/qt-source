@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/brightness">
+    <file alias="qmldir">/home/kzs5qm/workshop/brightness/build/Desktop_Qt_6_7_2-Debug/brightness/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -17,6 +17,8 @@ IMAGE_INSTALL:append = " \
     qml-demo \
     qml-demo2 \
     qml-demo3 \
+    qml-brightness \
     quick-controls \
     ivi-compositor \
+    myenv \
 "

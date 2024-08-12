@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/QtDigitalSpeedo/">
+    <file alias="speedo.qml">/home/kzs5qm/yocto/sources/meta-santhosh/recipes-qt/qml-demo3/files/speedo.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,4 @@
+module QtDigitalSpeedo
+typeinfo appQtDigitalSpeedo.qmltypes
+prefer :/QtDigitalSpeedo/
+

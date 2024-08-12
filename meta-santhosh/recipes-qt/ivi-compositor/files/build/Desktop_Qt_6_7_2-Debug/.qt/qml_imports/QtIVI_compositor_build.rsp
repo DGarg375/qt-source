@@ -1,0 +1,14 @@
+-rootPath
+/home/kzs5qm/yocto/sources/meta-santhosh/recipes-qt/ivi-compositor/files
+-cmake-output
+-output-file
+/home/kzs5qm/yocto/sources/meta-santhosh/recipes-qt/ivi-compositor/files/build/Desktop_Qt_6_7_2-Debug/.qt/qml_imports/QtIVI_compositor_build.cmake
+-importPath
+/home/kzs5qm/yocto/sources/meta-santhosh/recipes-qt/ivi-compositor/files/build/Desktop_Qt_6_7_2-Debug/ivi_compositor
+-importPath
+/home/kzs5qm/yocto/sources/meta-santhosh/recipes-qt/ivi-compositor/files/build/Desktop_Qt_6_7_2-Debug
+-importPath
+/home/kzs5qm/Qt/6.7.2/gcc_64/./qml
+-qrcFiles
+/home/kzs5qm/yocto/sources/meta-santhosh/recipes-qt/ivi-compositor/files/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/qmake_ivi_compositor.qrc
+/home/kzs5qm/yocto/sources/meta-santhosh/recipes-qt/ivi-compositor/files/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/QtIVI_compositor_raw_qml_0.qrc

@@ -1,0 +1,5 @@
+module brightness
+typeinfo appbrightness.qmltypes
+prefer :/qt/qml/brightness/
+Main_Brightness 1.0 Main_Brightness.qml
+

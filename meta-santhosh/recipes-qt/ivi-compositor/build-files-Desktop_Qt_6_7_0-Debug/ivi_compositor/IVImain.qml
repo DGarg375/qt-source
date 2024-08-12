@@ -17,7 +17,13 @@ WaylandCompositor {
             width: 1024
             height: 768
             visible: true
-
+            Rectangle {
+                id: dimming
+                width: parent.width
+                height: parent.height
+                anchors.left: parent.left
+                color: "black"
+            }
             Rectangle {
                 id: leftArea
                 width: parent.width / 2
@@ -39,13 +45,6 @@ WaylandCompositor {
                     anchors.centerIn: parent
                     text: "2222"
                 }
-            }
-            Rectangle {
-                id: dimming
-                width: parent.width
-                height: parent.height
-                anchors.left: parent.left
-                opacity:0.3
             }
         }
     }
@@ -117,7 +116,7 @@ WaylandCompositor {
                                  }
                                  else
                                  {
-                                     surfaceArea = dimming;
+                                     surfaceArea = rightArea1;
                                  }
 
             //var surfaceArea = iviSurface.iviId === 1337 ? leftArea : rightArea;

@@ -1,0 +1,12 @@
+--bare
+-I
+/home/kzs5qm/workshop/brightness/build/Desktop_Qt_6_7_2-Debug
+-I
+/home/kzs5qm/Qt/6.7.2/gcc_64/./qml
+--resource
+/home/kzs5qm/workshop/brightness/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/qmake_brightness.qrc
+--resource
+/home/kzs5qm/workshop/brightness/build/Desktop_Qt_6_7_2-Debug/.qt/rcc/appbrightness_raw_qml_0.qrc
+/home/kzs5qm/workshop/brightness/Main_Brightness.qml
+--json
+/home/kzs5qm/workshop/brightness/build/Desktop_Qt_6_7_2-Debug/appbrightness_qmllint.json

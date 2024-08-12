@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-050eb294193cb1f2fab4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QtDigitalSpeedo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-77d67797dda9514d14b2.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-84fd71a41a5065d75c9a.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-e6418256faa136da62ae.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-8e63c53c4594eeafdc99.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtDigitalSpeedo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtDigitalSpeedo-Debug-e4aee973e43f4cc90433.json",
+					"name" : "appQtDigitalSpeedo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtDigitalSpeedo_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtDigitalSpeedo_autogen-Debug-09721cecbf7b041626c9.json",
+					"name" : "appQtDigitalSpeedo_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtDigitalSpeedo_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtDigitalSpeedo_autogen_timestamp_deps-Debug-87543f1992c2cacbb730.json",
+					"name" : "appQtDigitalSpeedo_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtDigitalSpeedo_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtDigitalSpeedo_qmlimportscan-Debug-e3b0747095a714f58406.json",
+					"name" : "appQtDigitalSpeedo_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtDigitalSpeedo_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtDigitalSpeedo_qmllint-Debug-a1434f28fafd751b99bd.json",
+					"name" : "appQtDigitalSpeedo_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtDigitalSpeedo_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtDigitalSpeedo_qmllint_json-Debug-59ac8edffdc578525411.json",
+					"name" : "appQtDigitalSpeedo_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtDigitalSpeedo_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtDigitalSpeedo_qmllint_module-Debug-589107115767e0ad9cba.json",
+					"name" : "appQtDigitalSpeedo_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtDigitalSpeedo_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtDigitalSpeedo_qmltyperegistration-Debug-59fbeb46aaee4ee3b299.json",
+					"name" : "appQtDigitalSpeedo_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appQtDigitalSpeedo_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appQtDigitalSpeedo_tooling-Debug-5e6726c5d5ca861a0c5b.json",
+					"name" : "appQtDigitalSpeedo_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kzs5qm/yocto/sources/meta-santhosh/recipes-qt/qml-demo3/files/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/kzs5qm/yocto/sources/meta-santhosh/recipes-qt/qml-demo3/files"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
